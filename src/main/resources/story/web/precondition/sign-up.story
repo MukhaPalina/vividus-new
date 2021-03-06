@@ -1,6 +1,4 @@
-Description: HomeTask 2. Task 1
-
-Scenario: Sign up scenario using page elements steps
+Description: precondition sign up
 
 Given I am on the main application page
 When I click on element located `By.xpath(//a[text()='Sign up'])`
